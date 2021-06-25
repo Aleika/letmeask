@@ -14,7 +14,8 @@ O Inmana é um projeto desenvolvido durante o 6º NLW #Together, que é um event
 * Execute o projeto com `yarn start`
 * Acesse o projeto pelo navegador: [http://localhost:3000](http://localhost:3000)
 
-
+## Deploy da aplicação
+Acesse o deploy da aplicaçao [aqui](https://letmeask-20e75.web.app) e veja você mesmo o resultado deste projeto.
 
 
 ## Learn More
